@@ -1,3 +1,3 @@
 # Webscraping Makaan.com
 
-Scrapped the data of the apartments from makaan.com
+Scrapping 50 pages of real-estate data in Hydrabad from makaan.com 
